@@ -6,7 +6,7 @@ This is an awesome project. I have developed it using React.js Node.js, Express.
 Running client
 ```bash
     #clone this project
-        git clone https://github.com/Saikiran6645/Expense-Management-System.git
+        git clone git@github.com:Amaan061/Expense-Management-System.git
     # go to the client folder
         cd client
     #install all node modules
